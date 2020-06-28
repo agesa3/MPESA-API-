@@ -44,7 +44,7 @@ class MainActivity : AppCompatActivity() {
                     phoneNumber,
                     "174379",
                     phoneNumber,
-                    "",
+                    "https://mycallback.com",
                     "001ABC",
                     "Goods Payment"
             )
